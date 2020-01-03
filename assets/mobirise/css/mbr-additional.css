@@ -5843,6 +5843,19 @@ section.lazy-placeholder:after {
 .cid-rMpQrNHJHV LABEL {
   color: #ffffff;
 }
+.cid-rMuj7oCnJZ {
+  background: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.cid-rMuj7oCnJZ .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rMuj7oCnJZ .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rMu37RJRY5 {
   padding-top: 90px;
   padding-bottom: 90px;
