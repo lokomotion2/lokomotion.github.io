@@ -826,12 +826,12 @@ section.lazy-placeholder:after {
 .cid-rRucXT94Wt {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background: linear-gradient(45deg, #55b4d4, #7f1933);
 }
 .cid-rRudCFduYH {
   padding-top: 105px;
   padding-bottom: 120px;
-  background: linear-gradient(45deg, #e4d295, #7f1933);
+  background-image: url("../../../assets/images/background4.jpg");
 }
 .cid-rRuef1A3Ph {
   padding-top: 90px;
