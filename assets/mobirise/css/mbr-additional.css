@@ -1971,15 +1971,47 @@ section.lazy-placeholder:after {
 .cid-rSauQfasXe {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-rSauQfasXe .mbr-section-subtitle {
   color: #767676;
 }
+.cid-rSeQIQWpvi {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rSeQIQWpvi .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rSeQIQWpvi H2 {
+  color: #232323;
+}
+.cid-rSeQKQ58t0 {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 15px;
+}
+.cid-rSeQKQ58t0 .image-block {
+  margin: auto;
+}
+.cid-rSeQKQ58t0 figcaption {
+  position: relative;
+}
+.cid-rSeQKQ58t0 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rSeQKQ58t0 .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rSagz4SwcF {
   padding-top: 45px;
   padding-bottom: 60px;
-  background-color: #0c154d;
+  background-color: #ffffff;
 }
 .cid-rSasrHIoBM {
   padding-top: 15px;
@@ -1991,6 +2023,18 @@ section.lazy-placeholder:after {
 }
 .cid-rSasrHIoBM H2 {
   color: #f4a509;
+}
+.cid-rSeQspxDGA {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #2cb024;
+}
+.cid-rSeQspxDGA .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rSeQspxDGA H2 {
+  color: #ffffff;
+  text-align: left;
 }
 .cid-rRIhJ8jgfd {
   padding-top: 120px;
@@ -2411,13 +2455,13 @@ section.lazy-placeholder:after {
 .cid-rSaJmEOYXa {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #f4a509;
+  background-color: #095767;
 }
 .cid-rSaJmEOYXa .mbr-section-subtitle {
   color: #767676;
 }
 .cid-rSaJmEOYXa H2 {
-  color: #232323;
+  color: #ffffff;
   text-align: left;
 }
 .cid-rRA3kbIwFN {
@@ -2620,6 +2664,17 @@ section.lazy-placeholder:after {
 .cid-rRItGupT97 H2 {
   color: #232323;
 }
+.cid-rSePZUeVxw {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rSePZUeVxw .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rSePZUeVxw H2 {
+  color: #232323;
+}
 .cid-rSaD3lK5Pc {
   background: #ffffff;
   padding-top: 0px;
@@ -2644,7 +2699,7 @@ section.lazy-placeholder:after {
 .cid-rSaCXrOArm {
   padding-top: 45px;
   padding-bottom: 135px;
-  background-color: #0c154d;
+  background-color: #ffffff;
 }
 .cid-rSaHPmRya2 {
   padding-top: 15px;
