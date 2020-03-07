@@ -7827,11 +7827,12 @@ section.lazy-placeholder:after {
   color: #232323;
 }
 .cid-rShht7hPq8 {
-  background: #ffffff;
+  background: #232323;
+  padding-top: 15px;
+  padding-bottom: 0px;
 }
 .cid-rShht7hPq8 .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-rShht7hPq8 figcaption {
   position: relative;
