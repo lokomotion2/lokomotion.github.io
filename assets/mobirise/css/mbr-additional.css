@@ -11679,3 +11679,24 @@ section.lazy-placeholder:after {
 .cid-rLGmVIDVxQ blockquote {
   color: #767676;
 }
+.cid-rSZdPZRlGu {
+  background: #000000;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rSZdPZRlGu .image-block {
+  margin: auto;
+}
+.cid-rSZdPZRlGu figcaption {
+  position: relative;
+}
+.cid-rSZdPZRlGu figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rSZdPZRlGu .image-block {
+    width: 100% !important;
+  }
+}
