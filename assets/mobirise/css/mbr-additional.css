@@ -1255,91 +1255,15 @@ section.lazy-placeholder:after {
 .cid-rRCbZrZtk3 .mbr-text {
   color: #232323;
 }
-.cid-rLAiMrHVI6 {
-  background: #ffffff;
-  padding-top: 45px;
-  padding-bottom: 45px;
-}
-.cid-rLAiMrHVI6 .image-block {
-  margin: auto;
-}
-.cid-rLAiMrHVI6 figcaption {
-  position: relative;
-}
-.cid-rLAiMrHVI6 figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rLAiMrHVI6 .image-block {
-    width: 100% !important;
-  }
-}
 .cid-rRucC42oLQ {
   padding-top: 45px;
   padding-bottom: 45px;
   background: linear-gradient(45deg, #1b3487, #7f1933);
 }
-.cid-rRC7nTGzaj {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rRC7nTGzaj .mbr-text,
-.cid-rRC7nTGzaj blockquote {
-  color: #767676;
-}
-.cid-rRC7nTGzaj .mbr-text P {
-  text-align: right;
-}
-.cid-rRC7nTGzaj .mbr-text {
-  color: #232323;
-}
 .cid-rRucXT94Wt {
   padding-top: 60px;
   padding-bottom: 60px;
   background: linear-gradient(45deg, #55b4d4, #7f1933);
-}
-.cid-rRCcsoupSG {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rRCcsoupSG .mbr-text,
-.cid-rRCcsoupSG blockquote {
-  color: #767676;
-}
-.cid-rRCcsoupSG .mbr-text P {
-  text-align: center;
-}
-.cid-rRCcsoupSG .mbr-text {
-  color: #232323;
-}
-.cid-rRudCFduYH {
-  padding-top: 75px;
-  padding-bottom: 75px;
-  background-image: url("../../../assets/images/background4.jpg");
-}
-.cid-rRuef1A3Ph {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background: linear-gradient(45deg, #55b4d4, #7f1933);
-}
-.cid-rRC7zNckcY {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rRC7zNckcY .mbr-text,
-.cid-rRC7zNckcY blockquote {
-  color: #767676;
-}
-.cid-rRC7zNckcY .mbr-text P {
-  text-align: right;
-}
-.cid-rRC7zNckcY .mbr-text {
-  color: #232323;
 }
 .cid-rRuerRqpSZ {
   padding-top: 60px;
@@ -1415,11 +1339,6 @@ section.lazy-placeholder:after {
   padding-top: 90px;
   padding-bottom: 90px;
   background: linear-gradient(45deg, #55b4d4, #7f1933);
-}
-.cid-rRH9vBjTU3 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #073b4c;
 }
 .cid-rRH9OcKV3R {
   padding-top: 30px;
